@@ -11,7 +11,7 @@ To learn more, read the [blog post](https://axle.design/an-integrated-qualitativ
 2. Extract the downloaded .zip file wherever you'd like in your files.
 3. In Obsidian, open the [Vault Picker](https://help.obsidian.md/How+to/Working+with+multiple+vaults) and select **Open Folder as Vault**. Navigate to the newly-extracted folder from step 2, and open it.
 
-## Use
+## Use 
 Read the [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian) or review the documentation included in the environment.
 
 ## Contribution
