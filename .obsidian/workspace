@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dacae5d38d7cd3e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "521c64f3f5b1e1fc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "An Integrated Qualitative Analysis Environment with Obsidian.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3ff8905e780b7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d207773af5fda32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7511c91ecbdf9815",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee556a47edb22d1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfc40fa7b5b6f3c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c619746a19c6f201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4bd25f958b745b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "An Integrated Qualitative Analysis Environment with Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "521c64f3f5b1e1fc",
+  "lastOpenFiles": [
+    "An Integrated Qualitative Analysis Environment with Obsidian.md",
+    "data points/0.md",
+    "codes/A sample code.md",
+    "codes/A second sample code.md",
+    "Statistics.md",
+    "Workbench.md",
+    "Report.md",
+    "README.md",
+    "Code Index.md"
+  ]
+}
