@@ -10,7 +10,7 @@ This environment supports qualitative analysis of text (and potentially other me
 To learn more, read the [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian).
 
 Este entorno admite el análisis cualitativo de texto (y potencialmente otros medios) con [Obsidian](https://obsidian.md). Es un ejemplo de un entorno de pensamiento integrado [Integrated Thinking Environment](https://axle.design/obsidian-roam-and-the-rise-of-integrated-thinking-environments—what-they-are-what-they-do-and-what-s).
-Para obtener más información, lea la publicación del blog [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian).
+Para obtener más información, lea la publicación del [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian).
 
 ## Set up
 1. Download this repository as a .zipped folder by selecting the `Code` menu button in the upper-right, and then selecting **Download ZIP**.
