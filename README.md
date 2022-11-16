@@ -1,5 +1,5 @@
-# A Qualitative Analysis environment for Obsidian
-# Entorno de Análisis Cualitativo para Obsidian-Español
+# A Qualitative Analysis environment for Obsidian-ES
+# Entorno de Análisis Cualitativo para Obsidian
 
 _Original en inglés y traducción al español_
 
