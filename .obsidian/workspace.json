@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "df82497e7701f241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Entorno de Análisis Cualitativo para Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +95,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df82497e7701f241",
+  "active": "521c64f3f5b1e1fc",
   "lastOpenFiles": [
-    "Entorno de Análisis Cualitativo para Obsidian.md",
     "README.md",
+    "Entorno de Análisis Cualitativo para Obsidian.md",
     "Report.md",
     "Entorno.md",
     "An Integrated Qualitative Analysis Environment with Obsidian.md",
