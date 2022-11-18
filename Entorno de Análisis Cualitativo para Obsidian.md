@@ -1,10 +1,10 @@
 Traducción por Mújica - Fecha: 2021-08-19 - 14:05
+Leer original: [An Integrated Qualitative Analysis Environment with Obsidian](An%20Integrated%20Qualitative%20Analysis%20Environment%20with%20Obsidian.md)
 
 # Entorno de análisis cualitativo integrado Obsidian - Axle
 
-- ![Análisis de datos cualitativos con obsidiana](https://blotcdn.com/blog_a60d6a8aec4340a893fc18808f28840e/_image_cache/13c5a16a-c509-4554-ac86-293bc0eb441c.png)
+![Análisis de datos cualitativos con obsidiana](https://blotcdn.com/blog_a60d6a8aec4340a893fc18808f28840e/_image_cache/13c5a16a-c509-4554-ac86-293bc0eb441c.png)
 
-[Descargue el kit del entorno de análisis cualitativo de GitHub](https://github.com/ryanjamurphy/obsidian-qualitative-analysis-environment)
 
 MaxQDA, NVivo, Atlas.ti y una variedad de otras aplicaciones están diseñadas para ayudar a los investigadores a analizar datos cualitativos. Estas aplicaciones son sin duda poderosas, pero todas ofrecían una curva de aprendizaje demasiado empinada cuando me encargaron un pequeño proyecto de análisis en 2020 (¡además, son caras!) En cambio, \*\* diseñé un entorno de obsidiana para el análisis de datos cualitativos . \*\*
 
