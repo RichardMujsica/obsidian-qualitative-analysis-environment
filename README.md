@@ -25,8 +25,9 @@ Para obtener más información, lea la publicación del [blog post](https://axle
 Read the [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian) or review the documentation included in the environment.
 
 Lea la publicación del blog o revise la documentación incluida en el entorno.
+Lea la traducción del manual: [[Entorno de Análisis Cualitativo para Obsidian]]
 
 ## Contribution
 I welcome suggestions and changes via [pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) or, if you'd like to build on this environment with significant changes, feel free to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository.
 
-Así lo hicimos. Gracias Ryan.
+(Así lo hicimos. Gracias Ryan.)
